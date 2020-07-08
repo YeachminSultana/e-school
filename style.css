@@ -1,0 +1,147 @@
+@media{
+    max-width: 1000px;
+    min-width:100 px;
+    max-height:1000px ;
+    min-height:100px ;
+
+
+}
+.container{
+    margin-bottom: 100px;
+}
+
+    
+
+.bg{
+    background: #F0FFF0;
+}
+.navbar-brand img{
+   width:25%;
+}
+
+.carousel-item{
+    padding: 20px 40px ;
+}
+
+.orange-bg{
+    position: absolute;
+width: 1110px;
+height: 1000px;
+
+border-radius: 0px;
+background: #F0FFF0;
+}
+
+
+.buy-now-button{
+
+background: #21B573;
+border-radius: 33px;
+background-image: linear-gradient(to bottom, #21B573 0%, #21B579 100%);
+    border: none;
+    border-radius: 20px;
+    padding: 9px 25px;
+    cursor: pointer;
+    margin-left: 130px;
+
+}
+span{
+    color: #21B573;
+}
+h5{
+   color:  #FD511A;
+   margin-left: 130px;
+}
+   .pra{
+    margin-left: 130px;
+}
+
+.image{
+    position: absolute;
+width: 120px;
+height: 120px;
+left: 70px;
+top: 100px;
+border: 20px solid lightblue;
+background-color: lightblue;
+
+}
+
+
+
+.image1{
+    position: absolute;
+width: 120px;
+height: 120px;
+left: 70px;
+top: 100px;}
+#course{
+    margin-top: 300px;
+    padding: 20px;
+ 
+    
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+
+}
+.courses{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.calendar img {
+    width: 24px;
+} 
+.people img{
+    width: 24px;
+}
+.black{
+    color: gray;
+}
+
+
+
+
+#testominal{
+    text-align: center;
+    margin-bottom: 90px;
+
+}
+.man{
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    left: 340px;
+    top: 0px;
+
+}
+.container1{
+    margin-bottom: 1000px;
+}
+.box{
+    position: absolute;
+
+left: 50px;
+right: 60px;
+top:2000px;
+
+
+background: #282531;
+
+    
+}
+.text{
+    color: white;
+    list-style: none;
+
+
+}
+
+
+.foot{
+    color: white;
+    text-align: center;
+    margin-right: 10px;
+}
+
